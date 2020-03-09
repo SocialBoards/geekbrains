@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello">Привет, мир!</string>
+    <string name="hello_landscape">Это горизонтальная ориентация!</string>
+    <string name="im_beginner">Я новичок</string>
+    <string name="ok_you_will_success">Хорошо! Вы еще всему научитесь!</string>
+    <string name="im_experienced">Я уже опытный разработчик!</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">A1L1_HelloWorld</string>
+    <string name="hello">Hello World!</string>
+    <string name="hello_landscape">This is landscape!</string>
+    <string name="im_beginner">Im beginner</string>
+    <string name="ok_you_will_success">Ok! You will success!</string>
+    <string name="im_experienced">Im experienced developer!</string>
+</resources>
